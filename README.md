@@ -3,7 +3,7 @@
 A simple program, in both Java and C++, to draw the Mandelbrot set and the corresponding Julia sets.
 
 ## To run the C++ code
-This code uses (gtkmm 3.0)[https://www.gtkmm.org/en/download.html].
+This code uses [gtkmm 3.0](https://www.gtkmm.org/en/download.html).
 After installing gtkmm libraries, compile with
 ````bash
 ./make
